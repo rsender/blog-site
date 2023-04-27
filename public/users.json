@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Joe Biden",
+        "website": "whitehouse.gov",
+        "company": {
+            "name": "United States",
+            "catchPhrase": "I am the potus",
+            "bs": "this is a bs whatever it is"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Kamala Harris",
+        "website": "whitehouse.gov",
+        "company": {
+            "name": "United States",
+            "catchPhrase": "I am the vice potus",
+            "bs": "this is a bs whatever it is"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Robert Stein",
+        "website": "RobertSteinCo.company",
+        "company": {
+            "name": "JPMorgan Chase",
+            "catchPhrase": "this si a catchPhrase",
+            "bs": "this is a bs whatever it is"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Rivky Senderowitz",
+        "website": "rsenderowitz.company",
+        "company": {
+            "name": "Allstate",
+            "catchPhrase": "this si a catchPhrase",
+            "bs": "this is a bs whatever it is"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Sam Greenberger",
+        "website": "samgreenberger.company",
+        "company": {
+            "name": "Google",
+            "catchPhrase": "this si a catchPhrase",
+            "bs": "this is a bs whatever it is"
+        }
+    }
+]
