@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import User from './User';
+import './BlogList.css'
 
 export default function BlogList(props) {
     const [users, setUsers] = useState(null);

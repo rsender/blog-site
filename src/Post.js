@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
 import Comment from './Comment';
+import './Post.css'
 
 export default function Post(props) {
     const [show, setShow] = useState();
     const [data, setData] = useState();
-
 
     return (
         <>

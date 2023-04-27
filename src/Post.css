@@ -1,0 +1,24 @@
+.post {
+    margin: 10px;
+    padding: 20px;
+    padding-top: 40px;
+    padding-bottom: 80px;
+    background-color: whitesmoke;
+    box-shadow: inset 6px 6px 10px 0 rgba(255, 255, 255, 0.5),
+        inset -6px -6px 10px 0 rgba(0, 0, 0, 0.2);
+    color: rgb(4, 38, 130);
+}
+
+button {
+    border: 1px solid black;
+    background-color: rgb(113, 0, 36);
+    box-shadow: inset 6px 6px 10px 0 rgba(246, 198, 213, 0.845),
+        inset -6px -6px 10px 0 rgb(35, 1, 9);
+    padding: 8px;
+    color: whitesmoke;
+}
+
+button:hover {
+    color: whitesmoke;
+    box-shadow: none;
+}

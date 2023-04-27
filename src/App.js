@@ -2,10 +2,7 @@ import './App.css';
 import Blog from './Blog.js';
 import React, { useState } from 'react';
 import BlogList from './BlogList';
-import './blog.css';
 import Welcome from './Welcome';
-
-
 
 function App() {
   const [current, setCurrent] = useState();

@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import React from 'react'
 import Post from "./Post";
+import './Blog.css'
 
 export default function Blog(props) {
     const [posts, setPosts] = useState();
@@ -15,7 +16,7 @@ export default function Blog(props) {
 
     return (
         <>
-           {posts?.map(post => <Post key={post.id} post={post}></Post>)}
+            {posts?.map(post => <Post key={post.id} post={post}></Post>)}
         </>
     )
 }
